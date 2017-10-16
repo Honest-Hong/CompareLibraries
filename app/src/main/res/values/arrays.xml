@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menus">
+        <item>High quality image</item>
+        <item>Many images - Glide</item>
+        <item>Many images - Picasso</item>
+        <item>Many images - AUIL</item>
+    </string-array>
+    <string-array name="images">
+        <item>http://www.gettyimagesgallery.com/Images/Thumbnails/1520/152021.jpg</item>
+        <item>http://www.gettyimagesgallery.com/Images/Thumbnails/1520/152026.jpg</item>
+        <item>http://www.gettyimagesgallery.com/Images/Thumbnails/1520/152071.jpg</item>
+        <item>http://www.gettyimagesgallery.com/Images/Thumbnails/1521/152171.jpg</item>
+        <item>http://www.gettyimagesgallery.com/Images/Thumbnails/1521/152176.jpg</item>
+        <item>http://www.gettyimagesgallery.com/Images/Thumbnails/1521/152166.jpg</item>
+        <item>http://www.gettyimagesgallery.com/Images/Thumbnails/1520/152061.jpg</item>
+        <item>http://www.gettyimagesgallery.com/Images/Thumbnails/1520/152066.jpg</item>
+        <item>http://www.gettyimagesgallery.com/Images/Thumbnails/1520/152086.jpg</item>
+        <item>http://www.gettyimagesgallery.com/Images/Thumbnails/1520/152076.jpg</item>
+        <item>http://www.gettyimagesgallery.com/Images/Thumbnails/1520/152091.jpg</item>
+    </string-array>
+</resources>
